@@ -10,7 +10,7 @@
 Frontend-focused **Angular UI Developer** with **7+ years of experience** designing and delivering  
 **enterprise-scale web applications** across:
 
-🏦 Insurance | 🛡️ Defense | 🏥 Healthcare | 🎓 Education | 🛒 E-Commerce  
+🏦 Insurance | 🛡️ Defence | 🏥 Healthcare | 🎓 Education | 🛒 E-Commerce  
 
 I specialize in **UI architecture**, **design systems**, and **high-performance, accessible Angular
 interfaces** built for large teams and long-lived enterprise products.
@@ -88,7 +88,7 @@ interfaces** built for large teams and long-lived enterprise products.
 - Worked with **GitHub/GitLab, Jira, and CI/CD pipelines**  
 
 ### 🏢 Maple Software — Software Engineer
-- Built **defense-grade Angular dashboards**  
+- Built **defence-grade Angular dashboards**  
 - Modernized legacy frontends into Angular UI components  
 - Delivered mobile-first, cross-browser interfaces  
 
